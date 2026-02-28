@@ -121,7 +121,7 @@ customer-churn-predictive-analytics/
 
 ### 1️⃣ Clone Repository
 
-git clone https://github.com/yourusername/customer-churn-predictive-analytics.git
+git clone https://github.com/varshacpatil2420/customer-churn-prediction.git
 cd customer-churn-predictive-analytics
 
 
