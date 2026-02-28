@@ -171,8 +171,8 @@ https://yourusername-customer-churn.streamlit.app
 **Varsha Patil**  
 Data Analyst | Machine Learning & Power BI Enthusiast  
 
-GitHub: https://github.com/yourusername  
-LinkedIn: https://www.linkedin.com/in/yourprofile  
+GitHub: https://github.com/varshacpatil2420  
+LinkedIn: https://www.linkedin.com/in/varsha-patil-5664a714b/
 
 ---
 
